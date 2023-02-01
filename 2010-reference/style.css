@@ -1213,6 +1213,10 @@ vertical-align: top;
 
 
 @media (max-width: 991px){
+    .promo__title{
+        font-size: 42px;
+    }
+
     .cc_widget__customer.make_offer{
 		display: none;
 	}
